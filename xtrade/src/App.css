@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+
+}
+.content{
+  width: auto;
+}

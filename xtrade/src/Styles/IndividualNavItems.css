@@ -1,0 +1,25 @@
+.navbar__item{
+    display: flex;
+    align-items: center;
+    height: 48px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 0px auto;
+    
+}
+.navbar__item__icon{
+    vertical-align: center;
+    margin-left: 30px;
+}
+.navbar__item__title{
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0px 10px;
+}
+
+.navbar__item:hover {
+    background-color: rgba(0, 0, 0, 0.1);  
+}
+
+.navbar__item:hover > *{
+    color: white !important; 
+}

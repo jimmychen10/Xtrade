@@ -1,0 +1,34 @@
+.trending__tickers{
+    
+    margin-top: 15px;
+    margin:15px 50px;
+    /* width: 100%; */
+    
+
+}
+.trending__tickers__top{
+   display: flex;
+   /* width: 100%; */
+   justify-content: space-between;
+   align-items: center;
+
+}
+.trending__tickers__title{
+    color: #435274;
+    display: flex;
+    align-items: center;
+}
+.trending__tickers__button{
+    margin: 0px 10px;
+}
+.trending__tickers_trends{
+    width: auto;
+    background-color: #F5F8FB;
+    border-radius: 10px;
+    width: 84vw;
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    margin: 0px;
+}
+

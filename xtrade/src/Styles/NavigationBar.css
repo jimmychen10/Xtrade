@@ -1,0 +1,30 @@
+.navBar{
+    height: auto;
+    width: 14%;
+    background-color: #113365;  
+    /* max-width: none; */
+}
+
+.navBar__logo{
+    padding-top: 35px;
+    padding-left: 30px;
+    display: flex;
+    height: 25px;
+    align-items: center;
+}
+/* .navBar__logo img{
+    height: 25px;    
+} */
+.navBar__logo h2{
+    margin-left: 15px;
+    color: white;
+    display: inline;
+}
+
+.navBar__logo img{
+    height: 25px;
+}
+.navBar__items{
+    margin-top: 50px;
+    /* margin-left: 30px; */
+}

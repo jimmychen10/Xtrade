@@ -1,0 +1,60 @@
+.trend__card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+.trend__card__top{
+    display: flex;
+    justify-content: space-between;
+}
+.trend__card__top__info{
+    display: flex;
+}
+
+.trend__card__top__img{
+    background-color: #F4F6FA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 75px;
+    width: 75px;
+}
+.trend__card__top__img img{
+    background-color: #F4F6FA;
+    height: 50%;
+    
+}
+
+.trend__card__top__name{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 15px;
+    
+}
+.trend__card__top__name p{
+    margin:5px  0px;
+    
+}
+
+.trend__card__graph{
+    width: 300px;
+}
+.trend__card__graph img{
+    width: 100%;
+}
+.trend__card__bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.trend__card__bottom__green__percent{
+    color: #40C8B7;
+}
+.trend__card__bottom__red__percent{
+    color: #FD5B5D;
+}
+

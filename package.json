@@ -1,0 +1,20 @@
+{
+  "name": "Xtrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmychen10/Xtrade.git"
+  },
+  "keywords": [],
+  "author": "Jimmy Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmychen10/Xtrade/issues"
+  },
+  "homepage": "https://github.com/jimmychen10/Xtrade#readme"
+}

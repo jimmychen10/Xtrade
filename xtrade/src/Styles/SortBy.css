@@ -1,0 +1,19 @@
+.sort__by{
+    width: fit-content;
+    background-color: #F5F8FB;
+    padding: 10px 5px;
+    height: fit-content;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.sort__by p {
+    margin: 0px 5px;
+}
+.sort__by span {
+    
+    color: rgba(0, 0, 0, 0.5);
+}
+.sort__by div {
+    margin-left: 25px;
+}

@@ -1,0 +1,15 @@
+.button__invite{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #00A5EA;
+    color: white;
+    padding: 0px 15px;
+    font-family: DM Sans;
+}
+.button__invite img{
+    height: 50%;
+    margin-right: 3px;
+}
